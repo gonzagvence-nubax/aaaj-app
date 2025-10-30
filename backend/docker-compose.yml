@@ -1,0 +1,8 @@
+services:
+  backend-aaaj:
+    build: .
+    container_name: backend-aaaj
+    ports:
+      - "3038:3038"
+    volumes:
+      - .:/app

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic  # Asegurando que Ollama pueda usar esta versión
+ollama
+pandas
+dotenv
+scikit-learn
+scipy
+unidecode
